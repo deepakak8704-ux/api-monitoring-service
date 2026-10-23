@@ -1,0 +1,8 @@
+{
+  "total_checks": 21,
+  "successful_checks": 11,
+  "failed_checks": 10,
+  "success_rate_percent": 52.38,
+  "failure_rate_percent": 47.62,
+  "average_response_time_ms": 1690.01
+}

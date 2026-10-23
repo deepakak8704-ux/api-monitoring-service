@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "endpoint": "https://jsonplaceholder.typicode.com/posts",
+  "status_code": 200,
+  "status": "SUCCESS",
+  "response_time_ms": 815.77,
+  "attempt": 1,
+  "error_message": null
+}

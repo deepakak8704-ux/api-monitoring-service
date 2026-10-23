@@ -32,7 +32,6 @@ Base.metadata.create_all(bind=engine)
 app = FastAPI(
     title="API Monitoring & Service Request Management System",
     description=(
-        "Week 3 Python Development Internship Project - "
         "API Monitoring and Service Request Management"
     ),
     version="1.0.0",
@@ -383,3 +382,13 @@ def get_monitoring_report(
             2,
         ),
     }
+
+if __name__ == "__main__":
+    import uvicorn
+
+    uvicorn.run(
+        "app.main:app",
+        host="127.0.0.1",
+        port=8000,
+        reload=True,
+    )
