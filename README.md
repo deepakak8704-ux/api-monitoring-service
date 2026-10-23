@@ -1,6 +1,6 @@
 # API Monitoring & Service Request Management System
 
-A Python FastAPI application developed as a **Week 3 Python Development Internship Project**.
+A Python FastAPI application developed as a Python Development Internship Project.
 
 The system combines API endpoint monitoring with service request management. It can monitor external APIs, measure response time, detect failures, retry failed requests, store monitoring results in SQLite, and automatically create service requests for detected API failures.
 
@@ -599,7 +599,7 @@ Automated Tests
 12 Tests Passing
 
 Current Project Status
-The Week 3 API Monitoring & Service Request Management System has been implemented successfully.
+The API Monitoring & Service Request Management System has been implemented successfully.
 Completed Features
 - [x] FastAPI application
 - [x] SQLite database
@@ -629,7 +629,7 @@ Author
 Deepak
 
 Python Development Internship
-Week 3 Project
+Python Development Internship Project
 
 Project: API Monitoring & Service Request Management System
 
