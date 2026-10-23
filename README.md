@@ -643,3 +643,63 @@ Also, because your latest test result is:
 12 passed, 1 warning
 
 I would not claim 12 passed, 0 warnings anywhere. The warning is from the installed Starlette/httpx compatibility layer, not a failing test.
+
+## Screenshots
+
+### Swagger API Documentation
+
+![Swagger API Documentation]
+(screenshots\Screenshot 2026-10-23 233339.png)
+
+### Successful API Monitoring
+
+![Successful API Monitoring]
+(screenshots\Screenshot 2026-10-23 233612.png)
+(screenshots\Screenshot 2026-10-23 233659.png)
+
+### Failed API Monitoring
+
+![Failed API Monitoring]
+(screenshots\Screenshot 2026-10-23 233822.png)
+(screenshots\Screenshot 2026-10-23 233841.png)
+
+### Monitoring Results
+
+![Monitoring Results]
+(screenshots\Screenshot 2026-10-23 233947.png)
+(screenshots\Screenshot 2026-10-23 234050.png)
+(screenshots\Screenshot 2026-10-23 234117.png)
+
+### Monitoring Report
+
+![Monitoring Report]
+(screenshots\Screenshot 2026-10-23 234249.png)
+(screenshots\Screenshot 2026-10-23 234338.png)
+
+### Service Request Creation
+
+![Service Request Creation]
+(screenshots\Screenshot 2026-10-23 234459.png)
+
+### Service Request List
+
+![Service Request List]
+((screenshots\Screenshot 2026-10-23 234516.png))
+
+### Service Request Search
+
+![Service Request Search](screenshots/08-service-request-search.png)
+
+### Service Request Priority Filter
+
+![Service Request Priority Filter]
+(screenshots\Screenshot 2026-10-23 234756.png)
+(screenshots\Screenshot 2026-10-23 234814.png)
+
+### Service Request Status Filter
+
+![Service Request Status Filter]
+(screenshots\Screenshot 2026-10-23 234857.png)
+(screenshots\Screenshot 2026-10-23 234918.png)
+
+
